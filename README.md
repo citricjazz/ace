@@ -1,0 +1,2 @@
+# ace
+Annoying Clipboard Emptier
